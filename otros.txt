@@ -1,0 +1,440 @@
+AUTOMATIZACIOBN
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+Diseño e implementación de flujos automatizados de negocio. En SABEES, automaticé el ciclo de emergencias enviando notificaciones instantáneas por correo mediante SMTP y PHPMailer. En proyectos freelance, integré formularios web en WordPress con HubSpot CRM para la captura automática y segmentación de leads, configurando auto-respuestas y alertas automáticas por WhatsApp
+
+
+Documentación
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+Diseño y redacción de la documentación técnica y funcional para sistemas de información web como SABEES. Elaboré el Manual Técnico estructurando la arquitectura de software (patrón MVC), diagramas de flujo de procesos, modelado entidad-relación de la base de datos MySQL, especificaciones de seguridad (RBAC) y guías de administración por roles.
+
+
+ORM de Python
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+En el proyecto MERCAGRO desarrollé la lógica backend utilizando el marco de Python Django junto con Django REST Framework. Implementé el ORM de Python para el diseño, migración y administración de modelos relacionales conectados a bases de datos PostgreSQL y SQLite. Gracias a estas herramientas, pude definir la estructura de los datos, gestionar relaciones entre entidades y realizar operaciones CRUD de forma automatizada y eficiente, optimizando los flujos de información y la integridad de los datos en la aplicación.
+
+MySQL
+
+Profesional
+
+Evaluación de MySQL
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+Diseño y administración de bases de datos relacionales para sistemas de información. Modelé e integré bases de datos robustas en MySQL para el proyecto SABEES y gestioné entornos de desarrollo y producción utilizando SQLite y PostgreSQL en el proyecto MERCAGRO
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadesMySQL se guardó exitosamente
+Django
+
+Facultativo
+
+Evaluación de Django
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+Lo he aplicado principalmente en la creación de sistemas con gestión de usuarios, autenticación y operaciones CRUD, integrando bases de datos relacionales y siguiendo la arquitectura MVC para mantener un código organizado y escalable.
+
+En estos proyectos he reforzado mis habilidades en backend, lógica de programación y estructuración de aplicaciones web, especialmente en soluciones orientadas a la gestión de información.
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadesDjango se guardó exitosamente
+mvc
+
+Profesional
+
+Evaluación de mvc
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+En el proyecto SABEES, lideré la estructuración del sistema utilizando el patrón MVC en PHP, separando claramente la lógica de negocio, la capa de datos y la interfaz de usuario, lo que permitió un desarrollo más ordenado y fácil de escalar.
+Por otro lado, en el proyecto MERCAGRO, implementé una arquitectura modular en el backend utilizando Django, organizando el sistema en módulos independientes para facilitar su mantenimiento, reutilización y crecimiento progresivo.
+Estas experiencias me permitieron fortalecer mis habilidades en diseño de software, buenas prácticas de desarrollo y construcción de sistemas escalables.
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadesmvc se guardó exitosamente
+JavaScript AJAX
+
+Facultativo
+
+Evaluación de JavaScript AJAX
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+n SABEES, empleé JavaScript y AJAX para validar formularios en tiempo real, manejar eventos y actualizar datos en la interfaz en función de respuestas del servidor. Esto mejoró significativamente la usabilidad de la plataforma y optimizó los flujos de información.
+En mercagro, apliqué peticiones AJAX para cargar información de productos, consultar bases de datos y reflejar cambios instantáneos, lo que resultó en una aplicación más dinámica y centrada en el usuario.
+Estas experiencias me permitieron lograr interfaces más responsivas, reducir tiempos de espera para los usuarios y potenciar la interacción con los servicios web, todo gracias al aprovechamiento de JavaScript y AJAX en proyectos reales y productivos.
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadesJavaScript AJAX se guardó exitosamente
+CRUD
+
+Profesional
+
+Evaluación de CRUD
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+En el desarrollo del proyecto SABEES utilicé ampliamente el patrón CRUD (Crear, Leer, Actualizar y Eliminar) implementando la lógica backend con Python Django. Diseñé y administré modelos relacionales conectados a bases de datos, y desarrollé vistas y endpoints que permiten gestionar de manera eficiente la información del sistema, incluyendo el registro de usuarios, gestión de datos académicos y administración de recursos educativos.
+
+he implementado funcionalidades CRUD utilizando el marco de Python Django y Django REST Framework, como se evidencia en el desarrollo del proyecto MERCAGRO. Construí endpoints y vistas que permiten crear, leer, actualizar y eliminar registros asociados a los diferentes modelos de la aplicación, gestionando operaciones sobre productos, usuarios, transacciones y otras entidades críticas del sistema.
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadesCRUD se guardó exitosamente
+SEGURIDAD
+
+Facultativo
+
+Evaluación de SEGURIDAD
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+En el desarrollo de los proyectos SABEES y MERCAGRO, la seguridad siempre ha sido una prioridad. Utilizando el marco de Python Django y Django REST Framework, implementé diversas medidas para proteger los datos y gestionar el acceso al sistema, como autenticación y autorización robusta, protección contra ataques comunes (CSRF, XSS), y manejo seguro de contraseñas. Además, puse especial atención a las validaciones de entrada y salida en la API y realicé pruebas de seguridad en los endpoints para garantizar la integridad de la información.
+
+Por otro lado, aunque no he trabajado con el framework Laravel, tengo experiencia aplicando principios de seguridad desarrollando con PHP nativo. En estos proyectos, implementé la lógica backend y la gestión de bases de datos directamente con PHP, lo que me permitió entender a fondo cómo proteger las aplicaciones desde cero, prevenir inyecciones SQL, manejar correctamente las sesiones de usuario y aplicar buenas prácticas en el manejo de datos sensibles sin depender de frameworks externos.
+
+Esta combinación de experiencia con Django y PHP puro me ha permitido adoptar una visión integral de la seguridad en el desarrollo web,
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadesSEGURIDAD se guardó exitosamente
+lider
+
+Profesional
+
+Evaluación de lider
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+En el proyecto SABEES desempeñé el rol de líder del equipo de desarrollo. Me encargué de dirigir y coordinar al equipo, definiendo la arquitectura de la solución, asignando tareas según las fortalezas de cada integrante, y asegurando el cumplimiento de los objetivos y plazos establecidos. Participé activamente en la toma de decisiones técnicas y estratégicas, promoviendo buenas prácticas de desarrollo, revisando el avance del proyecto y facilitando la comunicación entre los miembros. Este rol me permitió potenciar el trabajo colaborativo y orientar al equipo hacia la consecución exitosa de los objetivos del sistema SABEES.
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadeslider se guardó exitosamente
+Visual Studio Code
+
+Profesional
+
+Evaluación de Visual Studio Code
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+He utilizado Visual Studio Code como mi entorno principal de desarrollo en los proyectos SABEES y MERCAGRO, así como en desarrollos freelance y académicos. Esta herramienta me ha permitido aumentar mi productividad y calidad en el código gracias a su ecosistema de extensiones, especialmente para PHP, JavaScript, Python y Django. Aprovecho funciones como el autocompletado inteligente, depuración integrada, formateo automático de código, integración con Git y terminal incorporada para trabajar de manera eficiente y organizada.
+
+Visual Studio Code me ha facilitado la gestión de proyectos complejos, la colaboración en equipo y la integración continua mediante GitHub
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadesVisual Studio Code se guardó exitosamente
+HTML
+
+Profesional
+
+Evaluación de HTML
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+En SABEES, por ejemplo, estructuré los formularios de registro y gestión de emergencias usando HTML5, permitiendo validaciones en el cliente y una mejor organización del contenido. Para MERCAGRO, diseñé vistas de productos y dashboards utilizando HTML bien estructurado, lo que facilitó la integración con Bootstrap y la interacción dinámica mediante JavaScript.
+
+Mi enfoque siempre es crear interfaces limpias, responsivas y accesibles, aprovechando la potencia de HTML5 combinado con buenas prácticas de desarrollo frontend.
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadesHTML se guardó exitosamente
+PHPMailer
+
+Facultativo
+
+Evaluación de PHPMailer
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+He utilizado PHPMailer como herramienta principal para la gestión de envíos de correos electrónicos en proyectos web como SABEES y en soluciones de automatización de procesos. Con PHPMailer, implementé la notificación instantánea por correo a brigadistas en el sistema SABEES, configurando el envío a través de SMTP (especialmente con Gmail) para garantizar la entrega segura y confiable de las alertas de emergencia.
+He integrado PHPMailer tanto para notificaciones automáticas como para funcionalidades de contacto, soporte y exportación de reportes mediante archivos adjuntos (por ejemplo, PDFs generados con FPDF).
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadesPHPMailer se guardó exitosamente
+GitHub
+
+Facultativo
+
+Evaluación de GitHub
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+He utilizado GitHub como mi principal plataforma para el control de versiones, la colaboración y la administración de proyectos. En el desarrollo de sistemas como SABEES y MERCAGRO, gestioné los repositorios para organizar el código fuente, facilitar el trabajo en equipo y documentar el histórico de cambios a lo largo del ciclo de vida de cada proyecto.
+
+Domino flujos de trabajo como branching, manejo de pull requests, resolución de conflictos y la integración con herramientas CI/CD cuando es necesario. Gracias a GitHub, he podido asegurar trazabilidad, control de versiones eficiente y trabajo colaborativo tanto en entornos educativos, bootcamps y proyectos personales como en aplicaciones reales orientadas a clientes. Además, aprovecho los recursos de documentación y tableros (Projects) para la gestión ágil de tareas y seguimiento de incidencias.
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadesGitHub se guardó exitosamente
+Git
+
+Facultativo
+
+Evaluación de Git
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+Gracias a Git, tengo la capacidad de recuperar versiones anteriores
+He utilizado Git como sistema de control de versiones en todos mis proyectos de desarrollo web y software, incluyendo SABEES y MERCAGRO.
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadesGit se guardó exitosamente
+XAMPP
+
+Facultativo
+
+Evaluación de XAMPP
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+He utilizado XAMPP como entorno local de desarrollo para proyectos web basados en PHP y MySQL, como SABEES. Gracias a XAMPP, he podido simular un servidor Apache, gestionar bases de datos MySQL y administrar servicios clave de manera sencilla en mi máquina local, lo que me ha permitido acelerar el desarrollo y las pruebas antes de los despliegues a producción.
+
+Configuro y gestiono proyectos dentro de XAMPP utilizando phpMyAdmin para la administración visual de bases de datos y manejo archivos de configuración para personalizar el entorno según las necesidades del proyecto. 
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadesXAMPP se guardó exitosamente
+COMUNICACIÓN
+
+Profesional
+
+Evaluación de COMUNICACIÓN
+¿Cuándo fue la última vez que usaste esta habilidad?
+Seleccionar
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+Durante el desarrollo del proyecto SABEES, practiqué una comunicación efectiva con los compañeros que apoyaron y aportaron al código. Fomenté espacios de diálogo abiertos para resolver dudas técnicas y compartir ideas, facilitando la coordinación tanto en la definición de requerimientos como en la integración de los diferentes módulos del sistema.
+La comunicación efectiva fue clave para fortalecer el trabajo en equipo en SABEES, permitiendo que cada participante contribuyera con confianza y claridad en la construcción del proyecto.
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadesCOMUNICACIÓN se guardó exitosamente
+WordPress
+
+Facultativo
+
+Evaluación de WordPress
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+Desarrollo sitios web profesionales en WordPress, incluyendo landing pages optimizadas para conversión, sitios corporativos y tiendas online. Tengo experiencia en integración de CRM, automatización de procesos digitales y conexión de APIs como HubSpot. Entrego proyectos modernos, seguros y adaptados a dispositivos móviles. https://testjf.dreamhosters.com/
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadesWordPress se guardó exitosamente
+PHP
+
+Facultativo
+
+Evaluación de PHP
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+He desarrollado aplicaciones web utilizando PHP nativo, enfocándome en la construcción de sistemas robustos y escalables como SABEES. Manejo programación orientada a objetos (POO), gestión de sesiones, control de acceso mediante patrones como RBAC y consumo de datos a través de consultas SQL sobre bases de datos relacionales como MySQL.
+
+He implementado arquitecturas MVC para mantener el código modular y organizado.
+Con PHP, también he garantizado la seguridad de las aplicaciones mediante el uso de buenas prácticas como el manejo seguro de contraseñas, validación de entradas de usuario y prevención de inyecciones SQL.
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadesPHP se guardó exitosamente
+Python
+
+Facultativo
+
+Evaluación de Python
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+engo experiencia utilizando Python para el desarrollo de aplicaciones web, automatización de procesos y construcción de sistemas de información. En el proyecto MERCAGRO, trabajé con Django y Django REST Framework para desarrollar la lógica backend, construir APIs RESTful y administrar modelos de datos relacionales utilizando el ORM de Django.
+
+Con Python he diseñado e implementado soluciones seguras y escalables, integrando módulos y librerías externas según las necesidades del proyecto. También he usado Python para tareas de procesamiento de datos, scripts automáticos y optimización de flujos de trabajo.
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadesPython se guardó exitosamente
+JavaScript
+
+Facultativo
+
+Evaluación de JavaScript
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+he utilizado JavaScript de manera activa en el desarrollo frontend de sistemas como SABEES y MERCAGRO, implementando funcionalidades interactivas y experiencias de usuario dinámicas. Manejo JavaScript ES6, enfocándome en el uso del DOM, la manipulación de eventos y el consumo de APIs mediante Fetch para actualizar contenidos sin recargar la página.
+
+En SABEES, integré JavaScript para mejorar la experiencia de usuario, automatizando la validación de formularios, gestionando la carga dinámica de notificaciones y aumentando la fluidez en los flujos de emergencia a través de AJAX y peticiones asíncronas. Para MERCAGRO, utilicé JavaScript en la integración del frontend con el backend construido en Django, permitiendo una comunicación eficaz y actualización instantánea de la información presentada a usuarios y administradores.
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadesJavaScript se guardó exitosamente
+CSS
+
+Facultativo
+
+Evaluación de CSS
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+He utilizado CSS3 de forma activa en el desarrollo de la interfaz de usuario en proyectos como SABEES y MERCAGRO. Aplico metodologías modernas utilizando Flexbox y Grid para diseñar interfaces responsivas y adaptables, garantizando una correcta visualización tanto en escritorio como en dispositivos móviles (Mobile First).
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadesCSS se guardó exitosamente
+Automatización de Procesos
+
+Facultativo
+
+Evaluación de Automatización de Procesos
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+He implementado automatización de procesos en varios de mis proyectos, como SABEES, donde desarrollé flujos que automatizan la notificación de alertas y el registro de eventos críticos mediante correo electrónico. En otros proyectos, he utilizado scripts en Python y PHP para optimizar tareas repetitivas, reducir errores manuales y mejorar la eficiencia operacional.
+
+
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadesAutomatización de Procesos se guardó exitosamente
+Desarrollo de Sistemas
+
+Facultativo
+
+Evaluación de Desarrollo de Sistemas
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+Tengo experiencia diseñando y desarrollando sistemas completos, desde la arquitectura inicial hasta la implementación y puesta en producción. Entre mis logros destaca la creación de SABEES (sistema de gestión de emergencias empresariales) donde se analizo casos de usos, diagramas relacionales, estructuracion inicial 
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadesDesarrollo de Sistemas se guardó exitosamente
+integracion
+
+Facultativo
+
+Evaluación de integracion
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+Tengo experiencia integrando sistemas y herramientas externas, como CRM (HubSpot), envío de correo vía PHPMailer y consumo de APIs de terceros para automatizar tareas de negocio y comunicación.
+
+Eliminar habilidad
+
+Ocultar detalles
+La calificación de habilidadesintegracion se guardó exitosamente
+Desarrollo de Software
+
+Facultativo
+
+Evaluación de Desarrollo de Software
+¿Cuándo fue la última vez que usaste esta habilidad?
+1 match found.
+ (Desarrollador Web)
+
+
+Describe cómo usaste esta habilidad en tu carrera profesional
+Tengo experiencia integral en el diseño y desarrollo de sistemas completos, abarcando desde la concepción arquitectónica hasta la puesta en producción. Entre mis logros destaca la creación de SABEES, sistema de alerta para brigadas de emergencias empresariales en el que lideré todas las fases del ciclo de desarrollo.
+
+Inicié el proyecto con un análisis detallado de casos de uso, levantamiento de requerimientos y definición de procesos clave para los usuarios. Elabore diagramas relacionales y de flujo para diseñar una base de datos optimizada y bien estructurada, facilitando la escalabilidad y el mantenimiento posterior. Llevé a cabo la estructuración inicial del sistema bajo el patrón MVC, garantizando modularidad y claridad en el código.
+
+Además, me encargué tanto de la programación backend como frontend, integrando funciones de autenticación segura, automatización de notificaciones y exportaciones de reportes. Finalmente, documenté cada etapa del desarrollo para lograr una implementación eficiente y una transición ordenada a producción.
+
