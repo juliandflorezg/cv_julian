@@ -1,44 +1,61 @@
+/*Elimina márgenes y espacios automáticos*/
 *{
 margin:0;
 padding:0;
+
+/*Hace que padding y border NO aumenten
+el tamaño real de los elementos, para layouts responsivos*/
 box-sizing:border-box;
 font-family:system-ui;
 }
 
 body{
+
+/*Color fondo principal.Azul oscuro tecnológico*/
 background:#07111f;
 color:white;
+/*Activa Flexbox para organizar sidebar y contenido principal*/
 display:flex;
+/*Evita scroll horizontal*/
 overflow-x:hidden;
 }
 
 #particles-js{
+
+/*Mantiene partículas fijas en toda la pantalla*/
 position:fixed;
 width:100%;
 height:100%;
+/*Envía partículas al fondo.*/
 z-index:-1;
 }
 
 .logo-top{
+
 position:fixed;
 top:20px;
 right:20px;
+/*Mantiene logo encima de elementos*/
 z-index:999;
 }
 
 .logo-top img{
-width:80px;
+width: 80px;
 border-radius:20px;
 transition:.4s;
 }
 
 .logo-top img:hover{
+
+/*Aumenta tamaño ligeramenteal pasar mouse.*/
 transform:scale(1.1);
 }
 
 .sidebar{
+
 width:320px;
 min-height:100vh;
+/*Efecto vidrio transparente*/
 background:rgba(255,255,255,.05);
 backdrop-filter:blur(10px);
 padding:30px;
@@ -47,10 +64,12 @@ border-right:1px solid rgba(255,255,255,.1);
 }
 
 .profile{
+
 text-align:center;
 }
 
 .photo-container img{
+
 width:160px;
 height:160px;
 border-radius:50%;
@@ -79,7 +98,7 @@ justify-content:center;
 gap:20px;
 margin:20px 0;
 }
-
+/*links sociales*/
 .socials a{
 color:white;
 font-size:28px;
@@ -88,10 +107,13 @@ transition:.3s;
 
 .socials a:hover{
 color:#00bfff;
+/*Sube ligeramente icono*/
 transform:translateY(-5px);
 }
 
+/*BOTON DESCARGAR CV*/
 .btn-cv{
+/*Permite padding correctamente*/
 display:inline-block;
 margin-top:20px;
 padding:12px 20px;
@@ -103,11 +125,13 @@ font-weight:bold;
 }
 
 .main{
+
 margin-left:320px;
 padding:40px;
 width:100%;
 }
 
+/*   TARJETAS GLASSMORPHIS*/
 .glass{
 background:rgba(255,255,255,.05);
 padding:30px;
@@ -162,6 +186,7 @@ flex-direction:column;
 gap:20px;
 }
 
+/* Barra fondo */
 .bar{
 width:100%;
 height:12px;
@@ -175,17 +200,21 @@ height:100%;
 background:#00bfff;
 }
 
-.p1{width:80%;}
-.p2{width:70%;}
-.p3{width:75%;}
+.p1{width:15%;}
+.p2{width:40%;}
+.p3{width:25%;}
 
+/*
+Cuando pantalla sea menor a 900px se adapta para tablets y móviles*/
 @media(max-width:900px){
 
 body{
+
 flex-direction:column;
 }
 
 .sidebar{
+
 position:relative;
 width:100%;
 }

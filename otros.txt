@@ -293,15 +293,8 @@ Eliminar habilidad
 
 Ocultar detalles
 La calificación de habilidadesWordPress se guardó exitosamente
+
 PHP
-
-Facultativo
-
-Evaluación de PHP
-¿Cuándo fue la última vez que usaste esta habilidad?
-1 match found.
- (Desarrollador Web)
-
 
 Describe cómo usaste esta habilidad en tu carrera profesional
 He desarrollado aplicaciones web utilizando PHP nativo, enfocándome en la construcción de sistemas robustos y escalables como SABEES. Manejo programación orientada a objetos (POO), gestión de sesiones, control de acceso mediante patrones como RBAC y consumo de datos a través de consultas SQL sobre bases de datos relacionales como MySQL.
@@ -309,129 +302,37 @@ He desarrollado aplicaciones web utilizando PHP nativo, enfocándome en la const
 He implementado arquitecturas MVC para mantener el código modular y organizado.
 Con PHP, también he garantizado la seguridad de las aplicaciones mediante el uso de buenas prácticas como el manejo seguro de contraseñas, validación de entradas de usuario y prevención de inyecciones SQL.
 
-Eliminar habilidad
-
-Ocultar detalles
-La calificación de habilidadesPHP se guardó exitosamente
 Python
-
-Facultativo
-
-Evaluación de Python
-¿Cuándo fue la última vez que usaste esta habilidad?
-1 match found.
- (Desarrollador Web)
-
 
 Describe cómo usaste esta habilidad en tu carrera profesional
 engo experiencia utilizando Python para el desarrollo de aplicaciones web, automatización de procesos y construcción de sistemas de información. En el proyecto MERCAGRO, trabajé con Django y Django REST Framework para desarrollar la lógica backend, construir APIs RESTful y administrar modelos de datos relacionales utilizando el ORM de Django.
 
 Con Python he diseñado e implementado soluciones seguras y escalables, integrando módulos y librerías externas según las necesidades del proyecto. También he usado Python para tareas de procesamiento de datos, scripts automáticos y optimización de flujos de trabajo.
 
-Eliminar habilidad
-
-Ocultar detalles
-La calificación de habilidadesPython se guardó exitosamente
 JavaScript
 
-Facultativo
-
-Evaluación de JavaScript
-¿Cuándo fue la última vez que usaste esta habilidad?
-1 match found.
- (Desarrollador Web)
-
-
-Describe cómo usaste esta habilidad en tu carrera profesional
 he utilizado JavaScript de manera activa en el desarrollo frontend de sistemas como SABEES y MERCAGRO, implementando funcionalidades interactivas y experiencias de usuario dinámicas. Manejo JavaScript ES6, enfocándome en el uso del DOM, la manipulación de eventos y el consumo de APIs mediante Fetch para actualizar contenidos sin recargar la página.
 
 En SABEES, integré JavaScript para mejorar la experiencia de usuario, automatizando la validación de formularios, gestionando la carga dinámica de notificaciones y aumentando la fluidez en los flujos de emergencia a través de AJAX y peticiones asíncronas. Para MERCAGRO, utilicé JavaScript en la integración del frontend con el backend construido en Django, permitiendo una comunicación eficaz y actualización instantánea de la información presentada a usuarios y administradores.
 
-Eliminar habilidad
 
-Ocultar detalles
-La calificación de habilidadesJavaScript se guardó exitosamente
 CSS
-
-Facultativo
-
-Evaluación de CSS
-¿Cuándo fue la última vez que usaste esta habilidad?
-1 match found.
- (Desarrollador Web)
-
-
-Describe cómo usaste esta habilidad en tu carrera profesional
 He utilizado CSS3 de forma activa en el desarrollo de la interfaz de usuario en proyectos como SABEES y MERCAGRO. Aplico metodologías modernas utilizando Flexbox y Grid para diseñar interfaces responsivas y adaptables, garantizando una correcta visualización tanto en escritorio como en dispositivos móviles (Mobile First).
 
-Eliminar habilidad
-
-Ocultar detalles
-La calificación de habilidadesCSS se guardó exitosamente
 Automatización de Procesos
-
-Facultativo
-
-Evaluación de Automatización de Procesos
-¿Cuándo fue la última vez que usaste esta habilidad?
-1 match found.
- (Desarrollador Web)
-
-
-Describe cómo usaste esta habilidad en tu carrera profesional
 He implementado automatización de procesos en varios de mis proyectos, como SABEES, donde desarrollé flujos que automatizan la notificación de alertas y el registro de eventos críticos mediante correo electrónico. En otros proyectos, he utilizado scripts en Python y PHP para optimizar tareas repetitivas, reducir errores manuales y mejorar la eficiencia operacional.
 
 
-
-Eliminar habilidad
-
-Ocultar detalles
-La calificación de habilidadesAutomatización de Procesos se guardó exitosamente
 Desarrollo de Sistemas
-
-Facultativo
-
-Evaluación de Desarrollo de Sistemas
-¿Cuándo fue la última vez que usaste esta habilidad?
-1 match found.
- (Desarrollador Web)
 
 
 Describe cómo usaste esta habilidad en tu carrera profesional
 Tengo experiencia diseñando y desarrollando sistemas completos, desde la arquitectura inicial hasta la implementación y puesta en producción. Entre mis logros destaca la creación de SABEES (sistema de gestión de emergencias empresariales) donde se analizo casos de usos, diagramas relacionales, estructuracion inicial 
 
-Eliminar habilidad
-
-Ocultar detalles
-La calificación de habilidadesDesarrollo de Sistemas se guardó exitosamente
 integracion
-
-Facultativo
-
-Evaluación de integracion
-¿Cuándo fue la última vez que usaste esta habilidad?
-1 match found.
- (Desarrollador Web)
-
-
-Describe cómo usaste esta habilidad en tu carrera profesional
 Tengo experiencia integrando sistemas y herramientas externas, como CRM (HubSpot), envío de correo vía PHPMailer y consumo de APIs de terceros para automatizar tareas de negocio y comunicación.
 
-Eliminar habilidad
-
-Ocultar detalles
-La calificación de habilidadesintegracion se guardó exitosamente
 Desarrollo de Software
-
-Facultativo
-
-Evaluación de Desarrollo de Software
-¿Cuándo fue la última vez que usaste esta habilidad?
-1 match found.
- (Desarrollador Web)
-
-
-Describe cómo usaste esta habilidad en tu carrera profesional
 Tengo experiencia integral en el diseño y desarrollo de sistemas completos, abarcando desde la concepción arquitectónica hasta la puesta en producción. Entre mis logros destaca la creación de SABEES, sistema de alerta para brigadas de emergencias empresariales en el que lideré todas las fases del ciclo de desarrollo.
 
 Inicié el proyecto con un análisis detallado de casos de uso, levantamiento de requerimientos y definición de procesos clave para los usuarios. Elabore diagramas relacionales y de flujo para diseñar una base de datos optimizada y bien estructurada, facilitando la escalabilidad y el mantenimiento posterior. Llevé a cabo la estructuración inicial del sistema bajo el patrón MVC, garantizando modularidad y claridad en el código.
